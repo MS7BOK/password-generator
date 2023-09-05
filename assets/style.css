@@ -88,11 +88,10 @@ header {
   cursor: pointer;
 }
 
-/* Had no purpose and was fixing background colour of box to grey and making cursour default */
-/* button:enabled {
+button:disabled {
   cursor: default;
   background: #c0c7cf;
-} */
+}
 
 .float-right {
   float: right;
