@@ -9,6 +9,9 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
 Screenshots:
+https://github.com/MS7BOK/password-generator/blob/main/assets/images/2023-09-07_17-20.png
+https://github.com/MS7BOK/password-generator/blob/main/assets/images/2023-09-07_17-21.png
+https://github.com/MS7BOK/password-generator/blob/main/assets/images/2023-09-07_17-30.png
 
 
 Links of deployed project:
