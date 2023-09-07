@@ -60,7 +60,7 @@ function generatePassword() {
     const specialChars = "!@#$%^&*()_+[]{}|;:',.<>?";
 
     // Create a combined character set based on selected criteria
-    let charSet = "UTF-8";
+    let charSet = "";
     if (criteria.includeLowercase) charSet += lowercaseChars;
     if (criteria.includeUppercase) charSet += uppercaseChars;
     if (criteria.includeNumeric) charSet += numericChars;
